@@ -2,6 +2,8 @@
 
 int main(){
 	int c, lastc;
+	int year = 0;
+/*
 	lastc = 'a';
 	while((c=getchar())!=EOF){
 		if(c!=' ')
@@ -11,4 +13,11 @@ int main(){
 				putchar(c);
 		lastc = c;
 	}
+*/
+	scanf("%d", &year);
+	if ((year % 4 == 0 && year % 100 != 0) || year % 400 == 0)
+		printf("%d is a leap year!\n", year);
+	else
+		printf("%d is not a leap year!\n", year);
+	return 0;
 }
