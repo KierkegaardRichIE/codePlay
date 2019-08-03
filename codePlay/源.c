@@ -1,4 +1,4 @@
-#include<stdio.h>
+О╩©#include<stdio.h>
 /*
 int main(){
 	int c, lastc;
@@ -25,7 +25,7 @@ int main(){
 	return 0;
 }
 */
-//вт╤╞╠Да©╨м╬╡л╛╠Да©
+//Х┤╙Е┼╗Е▐≤И┤▐Е▓▄И²≥Ф─│Е▐≤И┤▐
 void test()
 {
 	auto int a = 0;
