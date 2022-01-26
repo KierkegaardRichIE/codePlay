@@ -5,5 +5,6 @@
     "editor.wordWrap": "on",
     "editor.formatOnSave": true,
     "editor.formatOnPaste": true,
-    "editor.tabCompletion": "on"
+    "editor.tabCompletion": "on",
+    "editor.tabSize": 2
 }
